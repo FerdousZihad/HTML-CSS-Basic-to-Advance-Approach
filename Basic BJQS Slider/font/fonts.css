@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+/*font-family: 'Shadows Into Light', cursive;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Atma&display=swap');
+/*font-family: 'Atma', cursive;*/
+
+@font-face {
+	
+	font-family : "h";
+	src : 
+	url("../font/Bellerose.ttf") format("truetype");
+	
+}
+
+@font-face{
+	font-family:banglaD;
+	
+	src: 
+	url("b.eot") format("eot"),
+	url("b.woff") format("woff"),
+	url("b.ttf") format("woff"),
+	url("b.svg#b") format("svg");
+}

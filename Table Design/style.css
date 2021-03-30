@@ -1,0 +1,24 @@
+.o
+{
+    width: 577px;
+    height: 483px;
+    margin: 200px 300px;
+    background:linear-gradient(to left,black , white , #9d9dc2);
+    padding-left: 71px
+}
+.i{
+	border: 20px solid #fff;
+	border-collapse:collapse;
+	background:#fff;
+
+}
+.gray{
+	background:#dfdcdc;
+
+}
+td{
+	font-family:calibri;;
+
+}	
+
+

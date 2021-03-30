@@ -1,0 +1,27 @@
+table{
+	
+	width:1000px;
+	text-align: center;
+	border-collapse:collapse;
+	background-color: #0d2222;
+	
+	font: 25px/1em Arial;
+	color: #edef4e;
+	
+	border: 3px solid orange;
+	margin:0 auto;
+	
+	
+}
+
+ td , th {
+	
+	border: 3px solid orange;
+}
+.foot , table caption{
+	background:orange;
+	color:black;
+}
+
+
+

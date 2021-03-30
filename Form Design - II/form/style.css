@@ -1,0 +1,34 @@
+.o{
+	width:1000px;
+	height:1000px;
+	background-color:#32bad9;
+	padding:20px;
+}
+
+fieldset{
+	width:700px;
+	text-align:center;
+	font-size:1.5em;
+	background:#fff;
+	margin:50px 100px;
+}
+input{
+	border:2px solid white;
+	width:500px;
+	height: 30px;
+	border-bottom-color:gray;
+	text-align:center;
+	font-size:1.2em;
+
+	
+}
+button{
+	width:100px;
+	height:35px;
+	font-size:1em;
+	background:#19192d;
+	color:#fff;
+	
+}
+
+
